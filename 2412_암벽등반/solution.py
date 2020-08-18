@@ -1,3 +1,5 @@
+# 오답입니다
+
 import os
 import sys
 curr_dir = os.path.dirname(__file__)
