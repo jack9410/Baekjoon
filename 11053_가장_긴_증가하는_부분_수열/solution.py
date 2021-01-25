@@ -1,3 +1,6 @@
+# 출처: https://inspirit941.tistory.com/134
+# dp 로 풀지만 시간복잡도 n^2 인 풀이
+
 import os
 import sys
 curr_dir = os.path.dirname(__file__)
