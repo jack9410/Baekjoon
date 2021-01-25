@@ -11,7 +11,6 @@ alphabet.sort()
 
 word_lst = list(combinations(alphabet,L))
 
-
 for i in word_lst:
     v = 0
     c = 0
